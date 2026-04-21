@@ -2,7 +2,7 @@
 
 namespace Application.Contracts {
     public interface ICountriesCacheProxy {
-        Task<CountriesResponse?> GetAsync(CancellationToken cancellationToken);
-        Task SetAsync(CountriesResponse obj, CancellationToken cancellationToken);
+        Task<CountriesResponse?> Get(CancellationToken cancellationToken);
+        Task Set(CountriesResponse obj, CancellationToken cancellationToken);
     }
 }

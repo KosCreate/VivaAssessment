@@ -15,14 +15,14 @@ public sealed class CountriesService(
     private readonly ICountriesHttpClient _countriesHttpClient = countriesHttpClient;
 
     public async Task<CountriesResponse> GetAllAsync(CancellationToken cancellationToken) {
-        var cachedCountries = await _countriesCacheProxy.GetAsync(cancellationToken);
+        var cachedCountries = await _countriesCacheProxy.Get(cancellationToken);
         if (cachedCountries is not null && cachedCountries.Countries.Count > 0)
             return cachedCountries;
 
         var storedCountries = await GetFromDatabaseAsync(cancellationToken);
 
         if (storedCountries.Countries.Count > 0) {
-            await _countriesCacheProxy.SetAsync(storedCountries, cancellationToken);
+            await _countriesCacheProxy.Set(storedCountries, cancellationToken);
             return storedCountries;
         }
 
@@ -30,7 +30,7 @@ public sealed class CountriesService(
 
         if (fetchedCountries.Countries.Count > 0) {
             await SaveAllAsync(fetchedCountries.Countries, cancellationToken);
-            await _countriesCacheProxy.SetAsync(fetchedCountries, cancellationToken);
+            await _countriesCacheProxy.Set(fetchedCountries, cancellationToken);
         }
 
         return fetchedCountries;

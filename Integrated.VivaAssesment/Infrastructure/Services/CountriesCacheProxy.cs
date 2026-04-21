@@ -17,13 +17,13 @@ public sealed class CountriesCacheProxy : ICountriesCacheProxy {
         _cacheConfiguration = cacheConfiguration.Value;
     }
 
-    public Task<CountriesResponse?> GetAsync(CancellationToken cancellationToken) {
+    public Task<CountriesResponse?> Get(CancellationToken cancellationToken) {
         _memoryCache.TryGetValue(_cacheConfiguration.CacheKey, out CountriesResponse? countriesResponse);
 
         return Task.FromResult(countriesResponse);
     }
 
-    public Task SetAsync(CountriesResponse obj, CancellationToken cancellationToken) {
+    public Task Set(CountriesResponse obj, CancellationToken cancellationToken) {
         var cacheEntryOptions = new MemoryCacheEntryOptions {
             AbsoluteExpirationRelativeToNow =
                 TimeSpan.FromMinutes(_cacheConfiguration.AbsoluteExpirationMinutes)
