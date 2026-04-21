@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\services\\countriescacheproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\countriescacheproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\infraservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infraservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|solutionrelative:api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\queries\\getcountriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\queries\\getcountriesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\services\\countrieshttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\countrieshttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\contracts\\icountriescacheproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\contracts\\icountriescacheproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\dtos\\responses\\countriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\dtos\\responses\\countriesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\dtos\\responses\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\dtos\\responses\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\dtos\\responses\\secondlargestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\dtos\\responses\\secondlargestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\contracts\\icountrieshttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\contracts\\icountrieshttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\dtos\\restcountryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dtos\\restcountryresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\contracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\contracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\options\\countrieshttpclientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\options\\countrieshttpclientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\options\\countriescacheconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\options\\countriescacheconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\api\\controllers\\computeintegercollectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|solutionrelative:api\\controllers\\computeintegercollectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\db\\migration.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:db\\migration.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\commands\\getsecondlargestnumbercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\commands\\getsecondlargestnumbercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\dtos\\requests\\requestobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\dtos\\requests\\requestobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\domain\\countryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\domain\\countryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\core\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4119818-C9BB-4831-9AE7-1E51318D823D}|Core\\Application.csproj|solutionrelative:core\\domain\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\api\\validators\\requestobjvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565D61E2-4B50-4878-BEBC-2A1316F8E255}|Api\\Api.csproj|solutionrelative:api\\validators\\requestobjvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|c:\\users\\athan\\onedrive\\desktop\\gitdesktop_repos\\vivaassesment\\integrated.vivaassesment\\infrastructure\\migrations\\20260421163619_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129DBA98-9EEC-4F0B-90EE-9015449F8356}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20260421163619_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Api.http",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Api.http",
+              "RelativeDocumentMoniker": "Api\\Api.http",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Api.http",
+              "RelativeToolTip": "Api\\Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-21T17:57:30.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAL0UAAAAAAAAAIAwwMwUAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-21T17:52:33.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:50:32.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RestCountryResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Dtos\\RestCountryResponseModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Dtos\\RestCountryResponseModel.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Dtos\\RestCountryResponseModel.cs",
+              "RelativeToolTip": "Infrastructure\\Dtos\\RestCountryResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:37:11.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ComputeIntegerCollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Controllers\\ComputeIntegerCollectionController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ComputeIntegerCollectionController.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Controllers\\ComputeIntegerCollectionController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ComputeIntegerCollectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:55:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "migration.sql",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\db\\migration.sql",
+              "RelativeDocumentMoniker": "db\\migration.sql",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\db\\migration.sql",
+              "RelativeToolTip": "db\\migration.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-21T16:53:41.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260421163619_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Migrations\\20260421163619_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260421163619_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Migrations\\20260421163619_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20260421163619_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:36:19.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CountryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Domain\\CountryEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\CountryEntity.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Domain\\CountryEntity.cs",
+              "RelativeToolTip": "Core\\Domain\\CountryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:10:13.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Domain\\Entity.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Entity.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Domain\\Entity.cs",
+              "RelativeToolTip": "Core\\Domain\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:09:44.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CountriesCacheConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Options\\CountriesCacheConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Options\\CountriesCacheConfiguration.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Options\\CountriesCacheConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Options\\CountriesCacheConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:42:05.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CountriesHttpClientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Options\\CountriesHttpClientConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Options\\CountriesHttpClientConfiguration.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Options\\CountriesHttpClientConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Options\\CountriesHttpClientConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:41:06.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RequestObjValidator.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Validators\\RequestObjValidator.cs",
+              "RelativeDocumentMoniker": "Api\\Validators\\RequestObjValidator.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Validators\\RequestObjValidator.cs",
+              "RelativeToolTip": "Api\\Validators\\RequestObjValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:39:09.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:34:35.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\DbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DbContexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\DbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\DbContexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:33:44.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfraServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\InfraServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InfraServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\InfraServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Infrastructure\\InfraServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:30:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CountriesService.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Services\\CountriesService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CountriesService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:29:36.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesCacheProxy.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Services\\CountriesCacheProxy.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CountriesCacheProxy.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Services\\CountriesCacheProxy.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CountriesCacheProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:29:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountriesHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Services\\CountriesHttpClient.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CountriesHttpClient.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Infrastructure\\Services\\CountriesHttpClient.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CountriesHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:28:35.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CountriesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Dtos\\Responses\\CountriesResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Dtos\\Responses\\CountriesResponse.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Dtos\\Responses\\CountriesResponse.cs",
+              "RelativeToolTip": "Core\\Dtos\\Responses\\CountriesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:24:59.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetCountriesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Queries\\GetCountriesQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Queries\\GetCountriesQuery.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Queries\\GetCountriesQuery.cs",
+              "RelativeToolTip": "Core\\Queries\\GetCountriesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:24:17.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICountriesCacheProxy.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Contracts\\ICountriesCacheProxy.cs",
+              "RelativeDocumentMoniker": "Core\\Contracts\\ICountriesCacheProxy.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Contracts\\ICountriesCacheProxy.cs",
+              "RelativeToolTip": "Core\\Contracts\\ICountriesCacheProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:11:56.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICountriesHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Contracts\\ICountriesHttpClient.cs",
+              "RelativeDocumentMoniker": "Core\\Contracts\\ICountriesHttpClient.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Contracts\\ICountriesHttpClient.cs",
+              "RelativeToolTip": "Core\\Contracts\\ICountriesHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:10:47.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Contracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "Core\\Contracts\\ICountriesService.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Contracts\\ICountriesService.cs",
+              "RelativeToolTip": "Core\\Contracts\\ICountriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:06:02.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Dtos\\Responses\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Dtos\\Responses\\CountryResponse.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Dtos\\Responses\\CountryResponse.cs",
+              "RelativeToolTip": "Core\\Dtos\\Responses\\CountryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:04:47.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\appsettings.Development.json",
+              "RelativeToolTip": "Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T14:51:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T14:51:35.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetSecondLargestNumberCommand.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Commands\\GetSecondLargestNumberCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Commands\\GetSecondLargestNumberCommand.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Commands\\GetSecondLargestNumberCommand.cs",
+              "RelativeToolTip": "Core\\Commands\\GetSecondLargestNumberCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:46:58.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SecondLargestResponse.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Dtos\\Responses\\SecondLargestResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Dtos\\Responses\\SecondLargestResponse.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Dtos\\Responses\\SecondLargestResponse.cs",
+              "RelativeToolTip": "Core\\Dtos\\Responses\\SecondLargestResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:42:35.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RequestObj.cs",
+              "DocumentMoniker": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Dtos\\Requests\\RequestObj.cs",
+              "RelativeDocumentMoniker": "Core\\Dtos\\Requests\\RequestObj.cs",
+              "ToolTip": "C:\\Users\\athan\\OneDrive\\Desktop\\GitDesktop_Repos\\VivaAssesment\\Integrated.VivaAssesment\\Core\\Dtos\\Requests\\RequestObj.cs",
+              "RelativeToolTip": "Core\\Dtos\\Requests\\RequestObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T14:41:26.606Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1470,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
