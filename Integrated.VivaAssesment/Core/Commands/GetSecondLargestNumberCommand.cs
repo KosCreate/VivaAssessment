@@ -5,7 +5,7 @@ using MediatR;
 namespace Application.Commands {
     public sealed record GetSecondLargestNumberCommand(RequestObj Request) : IRequest<SecondLargestResponse> { }
 
-    public sealed class GetSecondLargetNumberCommandHandler : IRequestHandler<GetSecondLargestNumberCommand, SecondLargestResponse> {
+    public sealed class GetSecondLargestNumberCommandHandler : IRequestHandler<GetSecondLargestNumberCommand, SecondLargestResponse> {
 
         public Task<SecondLargestResponse> Handle(GetSecondLargestNumberCommand request, CancellationToken cancellationToken) {
             var distinctNumbers = request.Request.RequestArrayObj

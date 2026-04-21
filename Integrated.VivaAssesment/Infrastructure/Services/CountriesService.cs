@@ -14,6 +14,7 @@ public sealed class CountriesService(
     private readonly ICountriesCacheProxy _countriesCacheProxy = countriesCacheProxy;
     private readonly ICountriesHttpClient _countriesHttpClient = countriesHttpClient;
 
+    /// <inheritdoc/>
     public async Task<CountriesResponse> GetAllAsync(CancellationToken cancellationToken) {
         var cachedCountries = await _countriesCacheProxy.Get(cancellationToken);
         if (cachedCountries is not null && cachedCountries.Countries.Count > 0)
@@ -36,6 +37,7 @@ public sealed class CountriesService(
         return fetchedCountries;
     }
 
+    /// <inheritdoc/>
     public async Task SaveAllAsync(
         IReadOnlyCollection<CountryResponse> countries,
         CancellationToken cancellationToken) {
@@ -59,6 +61,11 @@ public sealed class CountriesService(
         await _dbContext.SaveChangesAsync(cancellationToken);
     }
 
+    /// <summary>
+    /// Helper method to get all countries from the database and map them to the response model
+    /// </summary>
+    /// <param name="cancellationToken"></param>
+    /// <returns></returns>
     private async Task<CountriesResponse> GetFromDatabaseAsync(CancellationToken cancellationToken) {
         var countries = await _dbContext.Countries
             .AsNoTracking()
@@ -70,6 +77,12 @@ public sealed class CountriesService(
         };
     }
 
+    /// <summary>
+    /// Maps a CountryEntity to a CountryResponse, splitting the Borders string into a list of strings - that is because the external API returns 
+    /// a list of borders but we store them as a comma-separated string in the database for simplicity. This method handles the conversion between the two formats.
+    /// </summary>
+    /// <param name="entity"></param>
+    /// <returns></returns>
     private static CountryResponse MapToResponse(CountryEntity entity) {
         var borders = string.IsNullOrWhiteSpace(entity.Borders)
             ? []
@@ -84,6 +97,11 @@ public sealed class CountriesService(
         };
     }
 
+    /// <summary>
+    /// Maps a CountryResponse to a CountryEntity, joining the Borders list into a comma-separated string (for the above reason)
+    /// </summary>
+    /// <param name="response"></param>
+    /// <returns></returns>
     private static CountryEntity MapToEntity(CountryResponse response) =>
         new CountryEntity() {
             CommonName = response.CommonName,
