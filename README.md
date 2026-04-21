@@ -1,4 +1,4 @@
-# VivaAssesment
+# VivaAssessment
 
 This project is for my assignment/assessment at Viva.com
 
@@ -109,10 +109,16 @@ Integrated.VivaAssesment/
    dotnet restore
    ```
 
-5. **Apply database migrations**
-   ```bash
-   you can use the script I created from EF Core -> db/migration.sql and run it on you sql server for convenience
-   ```
+5. ### Apply Database Migrations
+
+    You have two options:
+    
+    **Option 1:**
+    ```bash
+    dotnet ef database update --project Infrastructure --startup-project Api
+    ```
+    **Option 2:**
+    Run the script located at: `db/migration.sql`
 
 6. **Build the solution**
    ```bash
@@ -271,6 +277,6 @@ This project is open source and available under the MIT License.
 
 ## Authors
 
-Created as part of the Viva Assessment project.
+Created as part of an Assessment for Viva.
 
 ---
